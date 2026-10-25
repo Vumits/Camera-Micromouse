@@ -1,0 +1,379 @@
+2026-03-21 23:05:50,902 | INFO | state_transition from=IDLE to=ARMED frame=52 goal_ratio=0.0000 markers=0
+2026-03-21 23:21:36,865 | INFO | state_transition from=ARMED to=IDLE frame=124 goal_ratio=0.0000 markers=0
+2026-03-21 23:21:47,874 | INFO | state_transition from=IDLE to=ARMED frame=233 goal_ratio=0.0000 markers=0
+2026-03-21 23:21:59,374 | INFO | state_transition from=ARMED to=IDLE frame=347 goal_ratio=0.0000 markers=0
+2026-03-21 23:41:31,584 | INFO | state_transition from=IDLE to=ARMED frame=383 goal_ratio=0.0000 markers=0
+2026-03-21 23:43:39,494 | INFO | state_transition from=IDLE to=ARMED frame=228 goal_ratio=0.0000 markers=0
+2026-03-21 23:43:52,613 | INFO | state_transition from=ARMED to=IDLE frame=358 goal_ratio=0.0000 markers=0
+2026-03-21 23:43:53,928 | INFO | state_transition from=IDLE to=ARMED frame=371 goal_ratio=0.0000 markers=0
+2026-03-21 23:51:42,036 | INFO | state_transition from=ARMED to=RUNNING frame=149 goal_ratio=1.0000 markers=4
+2026-03-21 23:51:42,336 | INFO | state_transition from=RUNNING to=FINISHED frame=104 goal_ratio=0.0211 markers=4
+2026-03-21 23:51:42,337 | INFO | run_finished elapsed_ms=299.150
+2026-03-21 23:51:47,014 | INFO | state_transition from=ARMED to=RUNNING frame=149 goal_ratio=1.0000 markers=4
+2026-03-21 23:51:47,307 | INFO | state_transition from=RUNNING to=FINISHED frame=100 goal_ratio=0.0690 markers=4
+2026-03-21 23:51:47,308 | INFO | run_finished elapsed_ms=292.434
+2026-03-21 23:51:50,099 | INFO | state_transition from=ARMED to=RUNNING frame=149 goal_ratio=1.0000 markers=4
+2026-03-21 23:51:50,387 | INFO | state_transition from=RUNNING to=FINISHED frame=103 goal_ratio=0.0397 markers=4
+2026-03-21 23:51:50,388 | INFO | run_finished elapsed_ms=287.747
+2026-03-21 23:51:53,853 | INFO | state_transition from=ARMED to=RUNNING frame=149 goal_ratio=1.0000 markers=4
+2026-03-21 23:51:54,158 | INFO | state_transition from=RUNNING to=FINISHED frame=101 goal_ratio=0.0636 markers=4
+2026-03-21 23:51:54,158 | INFO | run_finished elapsed_ms=304.879
+2026-03-21 23:54:24,469 | INFO | state_transition from=ARMED to=RUNNING frame=149 goal_ratio=1.0000 markers=4
+2026-03-21 23:54:24,745 | INFO | state_transition from=RUNNING to=FINISHED frame=102 goal_ratio=0.0500 markers=4
+2026-03-21 23:54:24,746 | INFO | run_finished elapsed_ms=276.402
+2026-03-21 23:54:27,847 | INFO | state_transition from=ARMED to=RUNNING frame=149 goal_ratio=1.0000 markers=4
+2026-03-21 23:54:28,134 | INFO | state_transition from=RUNNING to=FINISHED frame=102 goal_ratio=0.0500 markers=4
+2026-03-21 23:54:28,135 | INFO | run_finished elapsed_ms=287.224
+2026-03-21 23:54:30,947 | INFO | state_transition from=ARMED to=RUNNING frame=149 goal_ratio=1.0000 markers=4
+2026-03-21 23:54:31,252 | INFO | state_transition from=RUNNING to=FINISHED frame=103 goal_ratio=0.0397 markers=4
+2026-03-21 23:54:31,253 | INFO | run_finished elapsed_ms=304.370
+2026-03-21 23:54:47,546 | INFO | state_transition from=ARMED to=RUNNING frame=149 goal_ratio=1.0000 markers=4
+2026-03-21 23:54:47,882 | INFO | state_transition from=RUNNING to=FINISHED frame=98 goal_ratio=0.0740 markers=4
+2026-03-21 23:54:47,883 | INFO | run_finished elapsed_ms=337.093
+2026-03-21 23:54:49,555 | INFO | state_transition from=ARMED to=RUNNING frame=149 goal_ratio=1.0000 markers=4
+2026-03-21 23:54:49,832 | INFO | state_transition from=RUNNING to=FINISHED frame=102 goal_ratio=0.0500 markers=4
+2026-03-21 23:54:49,832 | INFO | run_finished elapsed_ms=276.765
+2026-03-21 23:54:51,837 | INFO | state_transition from=ARMED to=RUNNING frame=149 goal_ratio=1.0000 markers=4
+2026-03-21 23:54:52,152 | INFO | state_transition from=RUNNING to=FINISHED frame=99 goal_ratio=0.0726 markers=4
+2026-03-21 23:54:52,152 | INFO | run_finished elapsed_ms=314.017
+2026-03-21 23:55:03,523 | INFO | state_transition from=ARMED to=RUNNING frame=149 goal_ratio=1.0000 markers=4
+2026-03-21 23:55:03,811 | INFO | state_transition from=RUNNING to=FINISHED frame=100 goal_ratio=0.0690 markers=4
+2026-03-21 23:55:03,811 | INFO | run_finished elapsed_ms=288.044
+2026-03-21 23:55:06,770 | INFO | state_transition from=ARMED to=RUNNING frame=149 goal_ratio=1.0000 markers=4
+2026-03-21 23:55:07,053 | INFO | state_transition from=RUNNING to=FINISHED frame=101 goal_ratio=0.0635 markers=4
+2026-03-21 23:55:07,053 | INFO | run_finished elapsed_ms=283.676
+2026-03-21 23:55:11,874 | INFO | state_transition from=ARMED to=RUNNING frame=149 goal_ratio=1.0000 markers=4
+2026-03-21 23:55:12,167 | INFO | state_transition from=RUNNING to=FINISHED frame=101 goal_ratio=0.0636 markers=4
+2026-03-21 23:55:12,168 | INFO | run_finished elapsed_ms=293.443
+2026-03-22 00:03:55,687 | INFO | state_transition from=ARMED to=RUNNING frame=149 goal_ratio=1.0000 markers=4
+2026-03-22 00:03:55,981 | INFO | state_transition from=RUNNING to=FINISHED frame=103 goal_ratio=0.0397 markers=4
+2026-03-22 00:03:55,982 | INFO | run_finished elapsed_ms=294.514
+2026-03-22 00:04:02,383 | INFO | state_transition from=ARMED to=RUNNING frame=149 goal_ratio=1.0000 markers=4
+2026-03-22 00:04:02,680 | INFO | state_transition from=RUNNING to=FINISHED frame=104 goal_ratio=0.0211 markers=4
+2026-03-22 00:04:02,680 | INFO | run_finished elapsed_ms=297.246
+2026-03-22 00:04:05,660 | INFO | state_transition from=ARMED to=RUNNING frame=149 goal_ratio=1.0000 markers=4
+2026-03-22 00:04:05,948 | INFO | state_transition from=RUNNING to=FINISHED frame=101 goal_ratio=0.0636 markers=4
+2026-03-22 00:04:05,949 | INFO | run_finished elapsed_ms=288.992
+2026-03-22 00:04:07,913 | INFO | state_transition from=ARMED to=RUNNING frame=149 goal_ratio=1.0000 markers=4
+2026-03-22 00:04:08,203 | INFO | state_transition from=RUNNING to=FINISHED frame=102 goal_ratio=0.0500 markers=4
+2026-03-22 00:04:08,203 | INFO | run_finished elapsed_ms=289.280
+2026-03-22 00:04:14,295 | INFO | state_transition from=ARMED to=RUNNING frame=149 goal_ratio=1.0000 markers=4
+2026-03-22 00:04:14,599 | INFO | state_transition from=RUNNING to=FINISHED frame=101 goal_ratio=0.0632 markers=4
+2026-03-22 00:04:14,599 | INFO | run_finished elapsed_ms=305.211
+2026-03-22 00:04:28,319 | INFO | state_transition from=ARMED to=RUNNING frame=149 goal_ratio=1.0000 markers=4
+2026-03-22 00:04:28,700 | INFO | state_transition from=RUNNING to=FINISHED frame=99 goal_ratio=0.0726 markers=4
+2026-03-22 00:04:28,700 | INFO | run_finished elapsed_ms=376.838
+2026-03-22 00:04:31,202 | INFO | state_transition from=ARMED to=RUNNING frame=149 goal_ratio=1.0000 markers=4
+2026-03-22 00:04:31,507 | INFO | state_transition from=RUNNING to=FINISHED frame=101 goal_ratio=0.0637 markers=4
+2026-03-22 00:04:31,507 | INFO | run_finished elapsed_ms=305.344
+2026-03-22 00:04:34,059 | INFO | state_transition from=ARMED to=RUNNING frame=149 goal_ratio=1.0000 markers=4
+2026-03-22 00:04:34,354 | INFO | state_transition from=RUNNING to=FINISHED frame=102 goal_ratio=0.0500 markers=4
+2026-03-22 00:04:34,354 | INFO | run_finished elapsed_ms=294.609
+2026-03-22 00:05:10,443 | INFO | state_transition from=ARMED to=RUNNING frame=149 goal_ratio=1.0000 markers=4
+2026-03-22 00:05:10,736 | INFO | state_transition from=RUNNING to=FINISHED frame=101 goal_ratio=0.0634 markers=4
+2026-03-22 00:05:10,737 | INFO | run_finished elapsed_ms=292.638
+2026-03-22 00:05:33,307 | INFO | state_transition from=ARMED to=RUNNING frame=149 goal_ratio=1.0000 markers=4
+2026-03-22 00:05:33,577 | INFO | state_transition from=RUNNING to=FINISHED frame=100 goal_ratio=0.0690 markers=4
+2026-03-22 00:05:33,577 | INFO | run_finished elapsed_ms=269.306
+2026-03-22 00:05:35,414 | INFO | state_transition from=ARMED to=RUNNING frame=149 goal_ratio=1.0000 markers=4
+2026-03-22 00:05:35,685 | INFO | state_transition from=RUNNING to=FINISHED frame=100 goal_ratio=0.0690 markers=4
+2026-03-22 00:05:35,685 | INFO | run_finished elapsed_ms=270.208
+2026-03-22 00:06:55,551 | INFO | state_transition from=ARMED to=RUNNING frame=149 goal_ratio=1.0000 markers=4
+2026-03-22 00:06:55,845 | INFO | state_transition from=RUNNING to=FINISHED frame=102 goal_ratio=0.0500 markers=4
+2026-03-22 00:06:55,847 | INFO | run_finished elapsed_ms=294.482
+2026-03-22 00:06:58,227 | INFO | state_transition from=ARMED to=RUNNING frame=149 goal_ratio=1.0000 markers=4
+2026-03-22 00:06:58,510 | INFO | state_transition from=RUNNING to=FINISHED frame=100 goal_ratio=0.0690 markers=4
+2026-03-22 00:06:58,510 | INFO | run_finished elapsed_ms=283.327
+2026-03-22 00:07:00,355 | INFO | state_transition from=ARMED to=RUNNING frame=149 goal_ratio=1.0000 markers=4
+2026-03-22 00:07:00,645 | INFO | state_transition from=RUNNING to=FINISHED frame=101 goal_ratio=0.0635 markers=4
+2026-03-22 00:07:00,646 | INFO | run_finished elapsed_ms=292.191
+2026-03-22 00:07:02,222 | INFO | state_transition from=ARMED to=RUNNING frame=149 goal_ratio=1.0000 markers=4
+2026-03-22 00:07:02,523 | INFO | state_transition from=RUNNING to=FINISHED frame=100 goal_ratio=0.0690 markers=4
+2026-03-22 00:07:02,523 | INFO | run_finished elapsed_ms=301.430
+2026-03-22 00:15:13,758 | INFO | state_transition from=IDLE to=ARMED frame=51 goal_ratio=0.0000 markers=0
+2026-03-22 00:15:22,429 | INFO | state_transition from=ARMED to=IDLE frame=137 goal_ratio=0.0000 markers=0
+2026-03-22 00:26:07,160 | INFO | state_transition from=ARMED to=RUNNING frame=149 goal_ratio=1.0000 markers=4
+2026-03-22 00:26:07,512 | INFO | state_transition from=RUNNING to=FINISHED frame=100 goal_ratio=0.0690 markers=4
+2026-03-22 00:26:07,512 | INFO | run_finished elapsed_ms=352.703
+2026-03-22 00:26:55,376 | INFO | state_transition from=ARMED to=RUNNING frame=149 goal_ratio=1.0000 markers=4
+2026-03-22 00:26:55,674 | INFO | state_transition from=RUNNING to=FINISHED frame=101 goal_ratio=0.0632 markers=4
+2026-03-22 00:26:55,674 | INFO | run_finished elapsed_ms=298.694
+2026-03-22 00:26:57,163 | INFO | state_transition from=ARMED to=RUNNING frame=149 goal_ratio=1.0000 markers=4
+2026-03-22 00:26:57,506 | INFO | state_transition from=RUNNING to=FINISHED frame=99 goal_ratio=0.0726 markers=4
+2026-03-22 00:26:57,506 | INFO | run_finished elapsed_ms=343.950
+2026-03-22 00:31:20,426 | INFO | state_transition from=ARMED to=RUNNING frame=149 goal_ratio=1.0000 markers=4
+2026-03-22 00:31:20,716 | INFO | state_transition from=RUNNING to=FINISHED frame=102 goal_ratio=0.0500 markers=4
+2026-03-22 00:31:20,716 | INFO | run_finished elapsed_ms=290.672
+2026-03-22 00:31:25,030 | INFO | state_transition from=ARMED to=RUNNING frame=149 goal_ratio=1.0000 markers=4
+2026-03-22 00:31:25,387 | INFO | state_transition from=RUNNING to=FINISHED frame=101 goal_ratio=0.0636 markers=4
+2026-03-22 00:31:25,387 | INFO | run_finished elapsed_ms=357.492
+2026-03-22 00:31:28,346 | INFO | state_transition from=ARMED to=RUNNING frame=149 goal_ratio=1.0000 markers=4
+2026-03-22 00:31:28,633 | INFO | state_transition from=RUNNING to=FINISHED frame=99 goal_ratio=0.0726 markers=4
+2026-03-22 00:31:28,633 | INFO | run_finished elapsed_ms=287.655
+2026-03-22 09:14:14,944 | INFO | state_transition from=ARMED to=RUNNING frame=23 goal_ratio=1.0000 markers=4
+2026-03-22 09:14:15,151 | INFO | state_transition from=RUNNING to=FINISHED frame=106 goal_ratio=0.0746 markers=4
+2026-03-22 09:14:15,152 | INFO | run_finished elapsed_ms=206.639
+2026-03-22 09:14:41,592 | INFO | state_transition from=ARMED to=RUNNING frame=149 goal_ratio=1.0000 markers=4
+2026-03-22 09:14:41,850 | INFO | state_transition from=RUNNING to=FINISHED frame=102 goal_ratio=0.0500 markers=4
+2026-03-22 09:14:41,851 | INFO | run_finished elapsed_ms=258.266
+2026-03-22 09:14:43,516 | INFO | state_transition from=ARMED to=RUNNING frame=149 goal_ratio=1.0000 markers=4
+2026-03-22 09:14:43,783 | INFO | state_transition from=RUNNING to=FINISHED frame=101 goal_ratio=0.0635 markers=4
+2026-03-22 09:14:43,783 | INFO | run_finished elapsed_ms=268.121
+2026-03-22 10:01:52,285 | INFO | state_transition from=ARMED to=RUNNING frame=414 goal_ratio=1.0000 markers=0
+2026-03-22 10:01:52,916 | INFO | state_transition from=RUNNING to=FINISHED frame=118 goal_ratio=0.2149 markers=0
+2026-03-22 10:01:52,916 | INFO | run_finished elapsed_ms=630.790
+2026-03-22 10:02:13,105 | INFO | state_transition from=ARMED to=RUNNING frame=414 goal_ratio=1.0000 markers=0
+2026-03-22 10:02:13,770 | INFO | state_transition from=RUNNING to=FINISHED frame=119 goal_ratio=0.2150 markers=0
+2026-03-22 10:02:13,770 | INFO | run_finished elapsed_ms=666.358
+2026-03-22 10:02:17,421 | INFO | state_transition from=ARMED to=RUNNING frame=414 goal_ratio=1.0000 markers=0
+2026-03-22 10:02:18,049 | INFO | state_transition from=RUNNING to=FINISHED frame=117 goal_ratio=0.1515 markers=0
+2026-03-22 10:02:18,049 | INFO | run_finished elapsed_ms=629.194
+2026-03-22 10:11:20,419 | INFO | state_transition from=IDLE to=ARMED frame=361 goal_ratio=0.0697 markers=0
+2026-03-22 10:11:36,694 | INFO | state_transition from=ARMED to=RUNNING frame=414 goal_ratio=1.0000 markers=0
+2026-03-22 10:11:48,580 | INFO | state_transition from=RUNNING to=FINISHED frame=344 goal_ratio=0.1029 markers=0
+2026-03-22 10:11:48,581 | INFO | run_finished elapsed_ms=11887.125
+2026-03-22 10:16:26,988 | INFO | state_transition from=ARMED to=RUNNING frame=414 goal_ratio=1.0000 markers=0
+2026-03-22 10:16:38,840 | INFO | state_transition from=RUNNING to=FINISHED frame=344 goal_ratio=0.1065 markers=0
+2026-03-22 10:16:38,840 | INFO | run_finished elapsed_ms=11847.455
+2026-03-22 10:17:12,717 | INFO | state_transition from=IDLE to=ARMED frame=352 goal_ratio=1.0000 markers=0
+2026-03-22 10:17:13,568 | INFO | state_transition from=ARMED to=RUNNING frame=376 goal_ratio=1.0000 markers=0
+2026-03-22 10:17:25,478 | INFO | state_transition from=RUNNING to=FINISHED frame=344 goal_ratio=0.0906 markers=0
+2026-03-22 10:17:25,479 | INFO | run_finished elapsed_ms=11910.353
+2026-03-22 10:23:10,195 | INFO | state_transition from=ARMED to=RUNNING frame=414 goal_ratio=1.0000 markers=0
+2026-03-22 10:23:22,114 | INFO | state_transition from=RUNNING to=FINISHED frame=344 goal_ratio=0.0970 markers=0
+2026-03-22 10:23:22,114 | INFO | run_finished elapsed_ms=11920.088
+2026-03-22 10:23:35,913 | INFO | state_transition from=ARMED to=RUNNING frame=414 goal_ratio=1.0000 markers=0
+2026-03-22 10:23:47,749 | INFO | state_transition from=RUNNING to=FINISHED frame=344 goal_ratio=0.0970 markers=0
+2026-03-22 10:23:47,750 | INFO | run_finished elapsed_ms=11837.227
+2026-03-22 10:24:23,944 | INFO | state_transition from=FINISHED to=IDLE frame=216 goal_ratio=1.0000 markers=0
+2026-03-22 10:24:27,944 | INFO | state_transition from=IDLE to=ARMED frame=93 goal_ratio=1.0000 markers=0
+2026-03-22 10:24:28,795 | INFO | state_transition from=ARMED to=RUNNING frame=118 goal_ratio=0.2144 markers=0
+2026-03-22 10:24:29,005 | INFO | state_transition from=RUNNING to=FINISHED frame=124 goal_ratio=0.0000 markers=0
+2026-03-22 10:24:29,005 | INFO | run_finished elapsed_ms=208.363
+2026-03-22 10:31:06,527 | INFO | state_transition from=IDLE to=ARMED frame=53 goal_ratio=1.0000 markers=0
+2026-03-22 10:31:07,035 | INFO | state_transition from=ARMED to=RUNNING frame=68 goal_ratio=0.0169 markers=0
+2026-03-22 10:31:16,453 | INFO | state_transition from=RUNNING to=FINISHED frame=344 goal_ratio=0.1143 markers=0
+2026-03-22 10:31:16,454 | INFO | run_finished elapsed_ms=9418.266
+2026-03-22 10:31:28,240 | INFO | state_transition from=ARMED to=RUNNING frame=414 goal_ratio=1.0000 markers=0
+2026-03-22 10:31:32,109 | INFO | state_transition from=RUNNING to=FINISHED frame=112 goal_ratio=0.1545 markers=0
+2026-03-22 10:31:32,111 | INFO | run_finished elapsed_ms=3870.121
+2026-03-22 10:32:14,586 | INFO | state_transition from=FINISHED to=IDLE frame=296 goal_ratio=1.0000 markers=0
+2026-03-22 10:32:16,227 | INFO | state_transition from=IDLE to=ARMED frame=344 goal_ratio=1.0000 markers=0
+2026-03-22 10:32:17,331 | INFO | state_transition from=ARMED to=RUNNING frame=375 goal_ratio=1.0000 markers=0
+2026-03-22 10:32:29,251 | INFO | state_transition from=RUNNING to=FINISHED frame=344 goal_ratio=0.1157 markers=0
+2026-03-22 10:32:29,258 | INFO | run_finished elapsed_ms=11921.542
+2026-03-22 10:33:53,071 | INFO | state_transition from=FINISHED to=IDLE frame=32 goal_ratio=1.0000 markers=0
+2026-03-22 10:33:53,555 | INFO | state_transition from=IDLE to=ARMED frame=46 goal_ratio=1.0000 markers=0
+2026-03-22 10:33:54,302 | INFO | state_transition from=ARMED to=RUNNING frame=68 goal_ratio=0.0123 markers=0
+2026-03-22 10:34:03,795 | INFO | state_transition from=RUNNING to=FINISHED frame=344 goal_ratio=0.1134 markers=0
+2026-03-22 10:34:03,795 | INFO | run_finished elapsed_ms=9493.283
+2026-03-22 10:34:09,136 | INFO | state_transition from=FINISHED to=ARMED frame=88 goal_ratio=1.0000 markers=0
+2026-03-22 10:34:10,189 | INFO | state_transition from=ARMED to=RUNNING frame=118 goal_ratio=0.0000 markers=0
+2026-03-22 10:34:17,983 | INFO | state_transition from=RUNNING to=FINISHED frame=344 goal_ratio=0.1132 markers=0
+2026-03-22 10:34:17,983 | INFO | run_finished elapsed_ms=7798.363
+2026-03-22 10:34:19,375 | INFO | state_transition from=FINISHED to=ARMED frame=385 goal_ratio=1.0000 markers=0
+2026-03-22 10:34:20,587 | INFO | state_transition from=ARMED to=RUNNING frame=414 goal_ratio=1.0000 markers=0
+2026-03-22 10:34:32,501 | INFO | state_transition from=RUNNING to=FINISHED frame=344 goal_ratio=0.1134 markers=0
+2026-03-22 10:34:32,501 | INFO | run_finished elapsed_ms=11913.684
+2026-03-22 10:34:58,213 | INFO | state_transition from=ARMED to=RUNNING frame=414 goal_ratio=1.0000 markers=0
+2026-03-22 10:35:10,068 | INFO | state_transition from=RUNNING to=FINISHED frame=344 goal_ratio=0.1134 markers=0
+2026-03-22 10:35:10,069 | INFO | run_finished elapsed_ms=11855.850
+2026-03-22 10:36:15,127 | INFO | state_transition from=IDLE to=ARMED frame=89 goal_ratio=1.0000 markers=0
+2026-03-22 10:36:16,163 | INFO | state_transition from=ARMED to=RUNNING frame=119 goal_ratio=0.0000 markers=0
+2026-03-22 10:36:23,943 | INFO | state_transition from=RUNNING to=FINISHED frame=344 goal_ratio=0.1228 markers=0
+2026-03-22 10:36:23,944 | INFO | run_finished elapsed_ms=7780.827
+2026-03-22 10:36:34,202 | INFO | state_transition from=ARMED to=RUNNING frame=119 goal_ratio=0.0000 markers=0
+2026-03-22 10:36:41,905 | INFO | state_transition from=RUNNING to=FINISHED frame=344 goal_ratio=0.1230 markers=0
+2026-03-22 10:36:41,905 | INFO | run_finished elapsed_ms=7707.688
+2026-03-22 10:37:15,632 | INFO | state_transition from=FINISHED to=ARMED frame=378 goal_ratio=1.0000 markers=0
+2026-03-22 10:37:20,607 | INFO | state_transition from=ARMED to=RUNNING frame=119 goal_ratio=0.0000 markers=0
+2026-03-22 10:37:28,218 | INFO | state_transition from=RUNNING to=FINISHED frame=344 goal_ratio=0.1233 markers=0
+2026-03-22 10:37:28,218 | INFO | run_finished elapsed_ms=7610.770
+2026-03-22 10:52:48,023 | INFO | state_transition from=IDLE to=ARMED frame=403 goal_ratio=1.0000 markers=0
+2026-03-22 10:52:53,128 | INFO | state_transition from=ARMED to=RUNNING frame=120 goal_ratio=0.0505 markers=0
+2026-03-22 10:52:53,346 | INFO | state_transition from=RUNNING to=FINISHED frame=127 goal_ratio=0.0505 markers=0
+2026-03-22 10:52:53,348 | INFO | run_finished elapsed_ms=219.340
+2026-03-22 10:53:03,219 | INFO | state_transition from=FINISHED to=ARMED frame=413 goal_ratio=1.0000 markers=0
+2026-03-22 10:53:08,117 | INFO | state_transition from=ARMED to=RUNNING frame=120 goal_ratio=0.0505 markers=0
+2026-03-22 10:53:08,331 | INFO | state_transition from=RUNNING to=FINISHED frame=126 goal_ratio=0.0505 markers=0
+2026-03-22 10:53:08,331 | INFO | run_finished elapsed_ms=213.698
+2026-03-22 10:53:54,731 | INFO | state_transition from=IDLE to=ARMED frame=21 goal_ratio=1.0000 markers=0
+2026-03-22 10:53:56,381 | INFO | state_transition from=ARMED to=RUNNING frame=69 goal_ratio=0.0974 markers=0
+2026-03-22 10:53:56,595 | INFO | state_transition from=RUNNING to=FINISHED frame=75 goal_ratio=0.0983 markers=0
+2026-03-22 10:53:56,595 | INFO | run_finished elapsed_ms=213.890
+2026-03-22 10:54:07,678 | INFO | state_transition from=FINISHED to=ARMED frame=20 goal_ratio=1.0000 markers=0
+2026-03-22 10:54:09,349 | INFO | state_transition from=ARMED to=RUNNING frame=69 goal_ratio=0.0975 markers=0
+2026-03-22 10:54:09,555 | INFO | state_transition from=RUNNING to=FINISHED frame=75 goal_ratio=0.0983 markers=0
+2026-03-22 10:54:09,555 | INFO | run_finished elapsed_ms=205.755
+2026-03-22 10:54:28,721 | INFO | state_transition from=FINISHED to=ARMED frame=72 goal_ratio=1.0000 markers=0
+2026-03-22 10:54:30,372 | INFO | state_transition from=ARMED to=RUNNING frame=120 goal_ratio=0.0506 markers=0
+2026-03-22 10:54:30,586 | INFO | state_transition from=RUNNING to=FINISHED frame=126 goal_ratio=0.0506 markers=0
+2026-03-22 10:54:30,590 | INFO | run_finished elapsed_ms=216.702
+2026-03-22 10:54:39,123 | INFO | state_transition from=FINISHED to=IDLE frame=375 goal_ratio=1.0000 markers=0
+2026-03-22 10:54:56,405 | INFO | state_transition from=ARMED to=RUNNING frame=119 goal_ratio=0.0000 markers=0
+2026-03-22 10:55:04,131 | INFO | state_transition from=RUNNING to=FINISHED frame=344 goal_ratio=0.1171 markers=0
+2026-03-22 10:55:04,131 | INFO | run_finished elapsed_ms=7726.142
+2026-03-22 10:55:14,155 | INFO | state_transition from=ARMED to=RUNNING frame=119 goal_ratio=0.0000 markers=0
+2026-03-22 10:55:21,890 | INFO | state_transition from=RUNNING to=FINISHED frame=344 goal_ratio=0.1171 markers=0
+2026-03-22 10:55:21,890 | INFO | run_finished elapsed_ms=7732.464
+2026-03-22 10:55:56,101 | INFO | state_transition from=ARMED to=RUNNING frame=119 goal_ratio=0.0000 markers=0
+2026-03-22 10:56:03,823 | INFO | state_transition from=RUNNING to=FINISHED frame=344 goal_ratio=0.1171 markers=0
+2026-03-22 10:56:03,823 | INFO | run_finished elapsed_ms=7726.161
+2026-03-22 10:56:17,351 | INFO | state_transition from=ARMED to=RUNNING frame=119 goal_ratio=0.0000 markers=0
+2026-03-22 10:56:25,080 | INFO | state_transition from=RUNNING to=FINISHED frame=344 goal_ratio=0.1171 markers=0
+2026-03-22 10:56:25,080 | INFO | run_finished elapsed_ms=7728.387
+2026-03-22 10:57:12,287 | INFO | state_transition from=IDLE to=ARMED frame=20 goal_ratio=1.0000 markers=0
+2026-03-22 10:57:13,671 | INFO | state_transition from=ARMED to=IDLE frame=60 goal_ratio=1.0000 markers=0
+2026-03-22 10:57:14,723 | INFO | state_transition from=IDLE to=ARMED frame=91 goal_ratio=1.0000 markers=0
+2026-03-22 10:57:15,699 | INFO | state_transition from=ARMED to=RUNNING frame=119 goal_ratio=0.0000 markers=0
+2026-03-22 10:57:23,460 | INFO | state_transition from=RUNNING to=FINISHED frame=344 goal_ratio=0.1253 markers=0
+2026-03-22 10:57:23,461 | INFO | run_finished elapsed_ms=7761.191
+2026-03-22 10:57:37,648 | INFO | state_transition from=ARMED to=RUNNING frame=119 goal_ratio=0.0000 markers=0
+2026-03-22 10:57:45,411 | INFO | state_transition from=RUNNING to=FINISHED frame=344 goal_ratio=0.1256 markers=0
+2026-03-22 10:57:45,411 | INFO | run_finished elapsed_ms=7762.568
+2026-03-22 10:57:52,971 | INFO | state_transition from=ARMED to=RUNNING frame=119 goal_ratio=0.0000 markers=0
+2026-03-22 10:58:00,723 | INFO | state_transition from=RUNNING to=FINISHED frame=344 goal_ratio=0.1256 markers=0
+2026-03-22 10:58:00,723 | INFO | run_finished elapsed_ms=7752.897
+2026-03-22 10:58:48,727 | INFO | state_transition from=ARMED to=RUNNING frame=119 goal_ratio=0.0000 markers=0
+2026-03-22 10:58:56,471 | INFO | state_transition from=RUNNING to=FINISHED frame=344 goal_ratio=0.1256 markers=0
+2026-03-22 10:58:56,473 | INFO | run_finished elapsed_ms=7743.824
+2026-03-22 10:59:04,544 | INFO | state_transition from=IDLE to=ARMED frame=66 goal_ratio=1.0000 markers=0
+2026-03-22 10:59:06,361 | INFO | state_transition from=ARMED to=RUNNING frame=119 goal_ratio=0.0000 markers=0
+2026-03-22 10:59:14,087 | INFO | state_transition from=RUNNING to=FINISHED frame=344 goal_ratio=0.1256 markers=0
+2026-03-22 10:59:14,087 | INFO | run_finished elapsed_ms=7725.177
+2026-03-22 10:59:27,521 | INFO | state_transition from=ARMED to=RUNNING frame=119 goal_ratio=0.0000 markers=0
+2026-03-22 10:59:35,266 | INFO | state_transition from=RUNNING to=FINISHED frame=344 goal_ratio=0.1256 markers=0
+2026-03-22 10:59:35,266 | INFO | run_finished elapsed_ms=7744.355
+2026-03-22 10:59:43,998 | INFO | state_transition from=ARMED to=RUNNING frame=119 goal_ratio=0.0000 markers=0
+2026-03-22 10:59:51,736 | INFO | state_transition from=RUNNING to=FINISHED frame=344 goal_ratio=0.1256 markers=0
+2026-03-22 10:59:51,736 | INFO | run_finished elapsed_ms=7740.169
+2026-03-22 11:00:00,102 | INFO | state_transition from=ARMED to=RUNNING frame=119 goal_ratio=0.0000 markers=0
+2026-03-22 11:00:07,892 | INFO | state_transition from=RUNNING to=FINISHED frame=344 goal_ratio=0.1256 markers=0
+2026-03-22 11:00:07,892 | INFO | run_finished elapsed_ms=7794.231
+2026-03-22 11:00:10,307 | INFO | state_transition from=FINISHED to=ARMED frame=414 goal_ratio=1.0000 markers=0
+2026-03-22 11:00:15,659 | INFO | state_transition from=ARMED to=RUNNING frame=119 goal_ratio=0.0000 markers=0
+2026-03-22 11:00:23,361 | INFO | state_transition from=RUNNING to=FINISHED frame=344 goal_ratio=0.1256 markers=0
+2026-03-22 11:00:23,362 | INFO | run_finished elapsed_ms=7701.401
+2026-03-22 11:00:24,766 | INFO | state_transition from=FINISHED to=ARMED frame=385 goal_ratio=1.0000 markers=0
+2026-03-22 11:00:29,771 | INFO | state_transition from=ARMED to=RUNNING frame=119 goal_ratio=0.0000 markers=0
+2026-03-22 11:00:37,515 | INFO | state_transition from=RUNNING to=FINISHED frame=344 goal_ratio=0.1259 markers=0
+2026-03-22 11:00:37,515 | INFO | run_finished elapsed_ms=7742.757
+2026-03-22 11:03:31,159 | INFO | state_transition from=IDLE to=ARMED frame=328 goal_ratio=1.0000 markers=0
+2026-03-22 11:03:38,162 | INFO | state_transition from=ARMED to=RUNNING frame=536 goal_ratio=0.0000 markers=0
+2026-03-22 11:03:42,950 | INFO | state_transition from=RUNNING to=FINISHED frame=678 goal_ratio=0.1599 markers=0
+2026-03-22 11:03:42,951 | INFO | run_finished elapsed_ms=4787.528
+2026-03-22 11:04:11,874 | INFO | state_transition from=FINISHED to=IDLE frame=1536 goal_ratio=1.0000 markers=0
+2026-03-22 11:04:12,994 | INFO | state_transition from=IDLE to=ARMED frame=1569 goal_ratio=1.0000 markers=0
+2026-03-22 11:04:14,981 | INFO | state_transition from=ARMED to=RUNNING frame=1628 goal_ratio=0.0000 markers=0
+2026-03-22 11:04:20,527 | INFO | state_transition from=RUNNING to=FINISHED frame=1792 goal_ratio=0.0579 markers=0
+2026-03-22 11:04:20,527 | INFO | run_finished elapsed_ms=5544.913
+2026-03-22 11:05:28,171 | INFO | state_transition from=ARMED to=RUNNING frame=47 goal_ratio=0.0000 markers=4
+2026-03-22 11:05:29,922 | INFO | state_transition from=RUNNING to=FINISHED frame=98 goal_ratio=0.0717 markers=4
+2026-03-22 11:05:29,922 | INFO | run_finished elapsed_ms=1751.069
+2026-03-22 11:06:04,726 | INFO | state_transition from=ARMED to=RUNNING frame=119 goal_ratio=0.0000 markers=0
+2026-03-22 11:06:12,494 | INFO | state_transition from=RUNNING to=FINISHED frame=344 goal_ratio=0.1272 markers=0
+2026-03-22 11:06:12,494 | INFO | run_finished elapsed_ms=7767.002
+2026-03-22 11:06:38,365 | INFO | state_transition from=ARMED to=RUNNING frame=69 goal_ratio=0.0000 markers=0
+2026-03-22 11:06:47,819 | INFO | state_transition from=RUNNING to=FINISHED frame=344 goal_ratio=0.1299 markers=0
+2026-03-22 11:06:47,819 | INFO | run_finished elapsed_ms=9455.474
+2026-03-22 11:22:19,183 | INFO | state_transition from=ARMED to=RUNNING frame=119 goal_ratio=0.0000 markers=0
+2026-03-22 11:22:26,921 | INFO | state_transition from=RUNNING to=FINISHED frame=344 goal_ratio=0.1162 markers=0
+2026-03-22 11:22:26,924 | INFO | run_finished elapsed_ms=7738.160
+2026-03-22 11:22:35,948 | INFO | state_transition from=ARMED to=RUNNING frame=119 goal_ratio=0.0000 markers=0
+2026-03-22 11:22:43,681 | INFO | state_transition from=RUNNING to=FINISHED frame=344 goal_ratio=0.1162 markers=0
+2026-03-22 11:22:43,681 | INFO | run_finished elapsed_ms=7734.540
+2026-03-22 11:22:51,308 | INFO | state_transition from=ARMED to=RUNNING frame=119 goal_ratio=0.0000 markers=0
+2026-03-22 11:22:59,021 | INFO | state_transition from=RUNNING to=FINISHED frame=344 goal_ratio=0.1162 markers=0
+2026-03-22 11:22:59,021 | INFO | run_finished elapsed_ms=7713.159
+2026-03-22 11:23:08,600 | INFO | state_transition from=ARMED to=RUNNING frame=119 goal_ratio=0.0000 markers=0
+2026-03-22 11:23:16,332 | INFO | state_transition from=RUNNING to=FINISHED frame=344 goal_ratio=0.1162 markers=0
+2026-03-22 11:23:16,332 | INFO | run_finished elapsed_ms=7732.577
+2026-03-23 10:30:58,947 | INFO | state_transition from=ARMED to=RUNNING frame=44 goal_ratio=0.0075 markers=0
+2026-03-23 10:30:59,229 | INFO | state_transition from=RUNNING to=FINISHED frame=52 goal_ratio=0.0236 markers=0
+2026-03-23 10:30:59,229 | INFO | run_finished elapsed_ms=283.850
+2026-03-24 17:10:58,779 | INFO | state_transition from=IDLE to=ARMED frame=255 goal_ratio=1.0000 markers=0
+2026-03-24 17:11:13,134 | INFO | state_transition from=ARMED to=RUNNING frame=360 goal_ratio=0.0000 markers=0
+2026-03-24 17:11:29,247 | INFO | state_transition from=ARMED to=RUNNING frame=119 goal_ratio=0.0000 markers=0
+2026-03-24 17:11:37,094 | INFO | state_transition from=RUNNING to=FINISHED frame=344 goal_ratio=0.1484 markers=0
+2026-03-24 17:11:37,094 | INFO | run_finished elapsed_ms=7839.318
+2026-03-24 17:11:45,712 | INFO | state_transition from=ARMED to=RUNNING frame=119 goal_ratio=0.0000 markers=0
+2026-03-24 17:11:53,496 | INFO | state_transition from=RUNNING to=FINISHED frame=344 goal_ratio=0.1484 markers=0
+2026-03-24 17:11:53,496 | INFO | run_finished elapsed_ms=7784.154
+2026-03-24 17:34:09,404 | INFO | state_transition from=ARMED to=RUNNING frame=69 goal_ratio=0.0000 markers=0
+2026-03-24 17:34:10,862 | INFO | state_transition from=RUNNING to=FINISHED frame=112 goal_ratio=0.1545 markers=0
+2026-03-24 17:34:10,862 | INFO | run_finished elapsed_ms=1456.662
+2026-03-24 17:34:45,207 | INFO | state_transition from=ARMED to=RUNNING frame=119 goal_ratio=0.0000 markers=0
+2026-03-24 17:34:52,879 | INFO | state_transition from=RUNNING to=FINISHED frame=344 goal_ratio=0.1361 markers=0
+2026-03-24 17:34:52,879 | INFO | run_finished elapsed_ms=7671.090
+2026-03-24 17:34:54,126 | INFO | state_transition from=FINISHED to=ARMED frame=381 goal_ratio=1.0000 markers=0
+2026-03-24 17:34:59,623 | INFO | state_transition from=ARMED to=RUNNING frame=119 goal_ratio=0.0000 markers=0
+2026-03-24 17:35:07,298 | INFO | state_transition from=RUNNING to=FINISHED frame=344 goal_ratio=0.1361 markers=0
+2026-03-24 17:35:07,298 | INFO | run_finished elapsed_ms=7675.328
+2026-03-24 17:35:20,842 | INFO | state_transition from=ARMED to=RUNNING frame=119 goal_ratio=0.0000 markers=0
+2026-03-24 17:35:28,568 | INFO | state_transition from=RUNNING to=FINISHED frame=344 goal_ratio=0.1361 markers=0
+2026-03-24 17:35:28,568 | INFO | run_finished elapsed_ms=7727.418
+2026-03-24 17:35:39,652 | INFO | state_transition from=ARMED to=RUNNING frame=119 goal_ratio=0.0000 markers=0
+2026-03-24 17:35:47,383 | INFO | state_transition from=RUNNING to=FINISHED frame=344 goal_ratio=0.1361 markers=0
+2026-03-24 17:35:47,383 | INFO | run_finished elapsed_ms=7731.886
+2026-03-24 17:36:07,087 | INFO | state_transition from=ARMED to=RUNNING frame=119 goal_ratio=0.0000 markers=0
+2026-03-24 17:36:14,784 | INFO | state_transition from=RUNNING to=FINISHED frame=344 goal_ratio=0.1361 markers=0
+2026-03-24 17:36:14,786 | INFO | run_finished elapsed_ms=7697.513
+2026-03-27 11:59:21,403 | INFO | state_transition from=IDLE to=ARMED frame=187 goal_ratio=1.0000 markers=0
+2026-03-27 11:59:41,011 | INFO | state_transition from=ARMED to=RUNNING frame=769 goal_ratio=0.0000 markers=0
+2026-03-27 11:59:45,091 | INFO | state_transition from=RUNNING to=FINISHED frame=890 goal_ratio=0.0285 markers=0
+2026-03-27 11:59:45,091 | INFO | run_finished elapsed_ms=4080.355
+2026-03-27 15:28:24,641 | INFO | state_transition from=ARMED to=IDLE frame=244 goal_ratio=0.0000 markers=0
+2026-03-27 15:28:25,154 | INFO | state_transition from=IDLE to=ARMED frame=260 goal_ratio=0.0000 markers=0
+2026-03-27 15:28:33,155 | INFO | state_transition from=ARMED to=IDLE frame=497 goal_ratio=0.0000 markers=0
+2026-03-27 15:28:40,400 | INFO | state_transition from=IDLE to=ARMED frame=712 goal_ratio=1.0000 markers=0
+2026-03-27 15:28:41,539 | INFO | state_transition from=ARMED to=RUNNING frame=746 goal_ratio=0.0000 markers=0
+2026-03-27 15:33:49,430 | INFO | state_transition from=IDLE to=ARMED frame=118 goal_ratio=1.0000 markers=0
+2026-03-27 15:33:53,839 | INFO | state_transition from=ARMED to=RUNNING frame=249 goal_ratio=0.0026 markers=0
+2026-03-27 15:33:54,056 | INFO | state_transition from=RUNNING to=FINISHED frame=255 goal_ratio=0.0011 markers=0
+2026-03-27 15:33:54,057 | INFO | run_finished elapsed_ms=211.063
+2026-03-27 15:33:59,804 | INFO | state_transition from=FINISHED to=ARMED frame=426 goal_ratio=1.0000 markers=0
+2026-03-27 15:34:02,097 | INFO | state_transition from=ARMED to=RUNNING frame=494 goal_ratio=0.0000 markers=0
+2026-03-27 15:34:04,807 | INFO | state_transition from=RUNNING to=FINISHED frame=574 goal_ratio=0.3825 markers=0
+2026-03-27 15:34:04,807 | INFO | run_finished elapsed_ms=2708.957
+2026-03-27 15:34:41,128 | INFO | state_transition from=FINISHED to=IDLE frame=414 goal_ratio=1.0000 markers=0
+2026-03-27 15:34:56,469 | INFO | state_transition from=ARMED to=RUNNING frame=69 goal_ratio=0.0002 markers=0
+2026-03-27 15:34:58,006 | INFO | state_transition from=RUNNING to=FINISHED frame=112 goal_ratio=0.2747 markers=0
+2026-03-27 15:34:58,006 | INFO | run_finished elapsed_ms=1537.408
+2026-03-27 15:35:19,232 | INFO | state_transition from=ARMED to=RUNNING frame=69 goal_ratio=0.0002 markers=0
+2026-03-27 15:35:20,743 | INFO | state_transition from=RUNNING to=FINISHED frame=112 goal_ratio=0.2747 markers=0
+2026-03-27 15:35:20,743 | INFO | run_finished elapsed_ms=1512.476
+2026-03-27 15:39:17,070 | INFO | state_transition from=ARMED to=RUNNING frame=119 goal_ratio=0.0000 markers=0
+2026-03-27 15:39:24,947 | INFO | state_transition from=RUNNING to=FINISHED frame=344 goal_ratio=0.1184 markers=0
+2026-03-27 15:39:24,951 | INFO | run_finished elapsed_ms=7880.087
+2026-03-27 15:39:26,479 | INFO | state_transition from=FINISHED to=ARMED frame=388 goal_ratio=1.0000 markers=0
+2026-03-27 15:39:31,648 | INFO | state_transition from=ARMED to=RUNNING frame=119 goal_ratio=0.0000 markers=0
+2026-03-27 15:39:39,505 | INFO | state_transition from=RUNNING to=FINISHED frame=344 goal_ratio=0.1184 markers=0
+2026-03-27 15:39:39,505 | INFO | run_finished elapsed_ms=7853.959
+2026-03-27 15:39:59,124 | INFO | state_transition from=ARMED to=RUNNING frame=119 goal_ratio=0.0000 markers=0
+2026-03-27 15:40:06,995 | INFO | state_transition from=RUNNING to=FINISHED frame=344 goal_ratio=0.1184 markers=0
+2026-03-27 15:40:06,995 | INFO | run_finished elapsed_ms=7872.834
+2026-04-04 06:56:35,274 | INFO | state_transition from=ARMED to=RUNNING frame=58 goal_ratio=0.0001 markers=0
+2026-04-04 06:56:46,202 | INFO | state_transition from=RUNNING to=FINISHED frame=386 goal_ratio=0.0791 markers=0
+2026-04-04 06:56:46,205 | INFO | run_finished elapsed_ms=10932.115
+2026-04-04 06:56:57,368 | INFO | state_transition from=FINISHED to=ARMED frame=721 goal_ratio=1.0000 markers=0
+2026-04-04 06:57:04,826 | INFO | state_transition from=ARMED to=RUNNING frame=945 goal_ratio=0.0016 markers=0
+2026-04-04 06:57:06,666 | INFO | state_transition from=RUNNING to=FINISHED frame=1000 goal_ratio=0.1986 markers=0
+2026-04-04 06:57:06,666 | INFO | run_finished elapsed_ms=1840.128
+2026-04-04 06:57:09,131 | INFO | state_transition from=FINISHED to=IDLE frame=1074 goal_ratio=1.0000 markers=0
+2026-04-04 07:47:34,560 | INFO | state_transition from=IDLE to=ARMED frame=34340 goal_ratio=0.0011 markers=0
+2026-04-04 07:47:34,651 | INFO | state_transition from=ARMED to=RUNNING frame=34343 goal_ratio=0.0011 markers=0
+2026-04-04 07:48:26,011 | INFO | state_transition from=RUNNING to=ARMED frame=35884 goal_ratio=1.0000 markers=0
+2026-04-04 07:48:26,324 | INFO | state_transition from=ARMED to=RUNNING frame=35893 goal_ratio=0.0006 markers=0
+2026-04-04 07:48:51,126 | INFO | state_transition from=RUNNING to=ARMED frame=36638 goal_ratio=1.0000 markers=0
+2026-04-04 07:48:51,438 | INFO | state_transition from=ARMED to=RUNNING frame=36647 goal_ratio=0.0003 markers=0
+2026-04-04 07:48:53,639 | INFO | state_transition from=RUNNING to=FINISHED frame=36713 goal_ratio=0.0584 markers=0
+2026-04-04 07:48:53,639 | INFO | run_finished elapsed_ms=2200.042
+2026-04-04 07:49:13,032 | INFO | state_transition from=FINISHED to=ARMED frame=37295 goal_ratio=0.0007 markers=0
+2026-04-04 07:49:16,185 | INFO | state_transition from=ARMED to=IDLE frame=37390 goal_ratio=1.0000 markers=0
+2026-04-04 07:49:18,690 | INFO | state_transition from=IDLE to=ARMED frame=37465 goal_ratio=1.0000 markers=0
+2026-04-04 07:49:20,128 | INFO | state_transition from=ARMED to=RUNNING frame=37508 goal_ratio=0.0004 markers=0
+2026-04-04 07:49:20,191 | INFO | state_transition from=RUNNING to=ARMED frame=37510 goal_ratio=1.0000 markers=0
+2026-04-04 07:49:26,725 | INFO | state_transition from=ARMED to=RUNNING frame=37706 goal_ratio=0.0007 markers=0
+2026-04-04 07:49:40,743 | INFO | state_transition from=RUNNING to=IDLE frame=38127 goal_ratio=1.0000 markers=0
+2026-04-04 07:49:44,110 | INFO | state_transition from=IDLE to=ARMED frame=38228 goal_ratio=1.0000 markers=0
+2026-04-04 07:49:46,416 | INFO | state_transition from=ARMED to=IDLE frame=38297 goal_ratio=1.0000 markers=0

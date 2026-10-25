@@ -1,0 +1,4 @@
+camera:
+  source_type: ip
+  ip_url: "rtsp://192.168.11.116/stream"
+  reconnect_ms: 1500

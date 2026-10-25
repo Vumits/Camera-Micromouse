@@ -1,0 +1,7 @@
+opencv-python
+opencv-contrib-python
+numpy
+PyQt6
+PyYAML
+pytest
+openpyxl
